@@ -1,0 +1,14 @@
+.catgories{
+    width: 100%;
+}
+.cat_items{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.catgories div div {
+    width: 40%;
+    height: 150px;
+}
